@@ -1,5 +1,5 @@
 # Olá, me chamo Pedro!
-> - 🧑🏽‍💻 Atualmente interessado na area de desenvolvimento back-end.
+> - 😎 Atualmente interessado na area de desenvolvimento back-end.
 > - 💻 Cursando 4º Semestre de Sistemas de Informação - UESB.
 > - 🤙🏽 Tentando ser um pouco melhor a cada dia!
 
