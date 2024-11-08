@@ -17,7 +17,7 @@ Bem-vindo ao meu GitHub! Atualmente cursando Sistemas de Informação com intere
 
 ## 🌱 Estou Aprendendo
 
-Atualmente, estou me estudando Typescript.
+Atualmente, estou estudando Typescript.
 
 ## 🤝 Vamos nos Conectar!
 
